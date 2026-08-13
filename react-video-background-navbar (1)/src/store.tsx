@@ -138,10 +138,10 @@ export const DEFAULT_CONTENT: SiteContent = {
     copyright: "© 2026 AURA LUXE", locationsText: "DUBAI · PAKISTAN · WORLDWIDE SHIPPING",
   },
   products: [
-    { id: "01", name: "LACE COLLECTION 04", price:35.96 · PKR 9999 · AED 132.10, img: [
+    { id: "01", name: "LACE COLLECTION 04", price: 35.96, img: [
   "https://i.ibb.co/tTN0WfLq/CA147-CD1-F51-B-43-C6-BA5-D-CFBBAC98-D627.png",
   "https://i.ibb.co/zHJ565Rp/BD5977-CB-FB22-4-A7-E-ACCA-0521-ED79-ABCB.jpg"], colors: [{ name: "Onyx", hex: "#111" }, { name: "Stone", hex: "#C9BBA5" }], sizes: ["XS", "S", "M", "L", "XL"], tags: ["New Arrivals", "Signature", "Black", "Luxury"], desc: "Cut from lightweight Nida crepe with a fluid silhouette. Hand-finished edges and invisible seams deliver couture-level purity.", fabric: "Premium Nida Crepe · Breathable · Modesty lined", isNew: true, isSig: true },
-    { id: "02", name: "LACE COLLECTION 02", price: 32.41 · PKR 8999 · AED 118.99, img: [
+    { id: "02", name: "LACE COLLECTION 02", price: 32.41, img: [
   "https://i.ibb.co/LXn5kK3w/6-A010632-E1-AA-49-B7-9-D6-D-D217-F13928-C8.png",
   "https://i.ibb.co/YBrz7CtQ/51-C00-E03-E4-CA-4205-A0-AC-DFA40-C9-F7-B32.png"], colors: [{ name: "Noir", hex: "#0a0a0a" }, { name: "Sand", hex: "#D8CFC0" }, { name: "Sage", hex: "#9CAF88" }], sizes: ["S", "M", "L"], tags: ["New Arrivals", "Embroidered", "Occasion", "Luxury"], desc: "Intricate tonal embroidery adorns sleeves and front panel. Inspired by archways of Old Dubai, each stitch placed by hand.", fabric: "Embroidered Nida · Lined sleeves · Dry clean", isNew: true },
     { id: "03", name: "ZAHRA PURE", price: 390, img: [IMG.c, IMG.d], colors: [{ name: "Black", hex: "#000" }, { name: "Ecru", hex: "#F5F1E9" }], sizes: ["XS", "S", "M", "L", "XL"], tags: ["New Arrivals", "Everyday", "Black"], desc: "Everyday couture engineered for movement, with hidden pockets and a weightless feel.", fabric: "Light Nida · Wrinkle-resistant · Everyday wear", isNew: true },
