@@ -72,7 +72,7 @@ const IMG = {
 /* ═══════════════ DEFAULT CONTENT ═══════════════ */
 export const DEFAULT_CONTENT: SiteContent = {
   hero: {
-    words: ["WHEN", "MODESTY", "MEETS", "ELEGANCE"],
+    words: ["WHERE", "MODESTY", "MEETS", "ELEGANCE"],
     tagline: "WHAT WE DO",
     subtitle: "Aura Lux is a premium abayas brand",
     locationLeft: "DUBAI", locationRight: "PAKISTAN",
@@ -138,7 +138,7 @@ export const DEFAULT_CONTENT: SiteContent = {
     copyright: "© 2026 AURA LUXE", locationsText: "DUBAI · PAKISTAN · WORLDWIDE SHIPPING",
   },
   products: [
-    { id: "01", name: "NOOR ABAYA", price: 485, img: [
+    { id: "01", name: "LACE EDITION", price: 9999, img: [
   "https://i.ibb.co/tTN0WfLq/CA147-CD1-F51-B-43-C6-BA5-D-CFBBAC98-D627.png",
   "https://i.ibb.co/zHJ565Rp/BD5977-CB-FB22-4-A7-E-ACCA-0521-ED79-ABCB.jpg"], colors: [{ name: "Onyx", hex: "#111" }, { name: "Stone", hex: "#C9BBA5" }], sizes: ["XS", "S", "M", "L", "XL"], tags: ["New Arrivals", "Signature", "Black", "Luxury"], desc: "Cut from lightweight Nida crepe with a fluid silhouette. Hand-finished edges and invisible seams deliver couture-level purity.", fabric: "Premium Nida Crepe · Breathable · Modesty lined", isNew: true, isSig: true },
     { id: "02", name: "LAYLA EMBROIDERED", price: 620, img: [IMG.b, IMG.c], colors: [{ name: "Noir", hex: "#0a0a0a" }, { name: "Sand", hex: "#D8CFC0" }, { name: "Sage", hex: "#9CAF88" }], sizes: ["S", "M", "L"], tags: ["New Arrivals", "Embroidered", "Occasion", "Luxury"], desc: "Intricate tonal embroidery adorns sleeves and front panel. Inspired by archways of Old Dubai, each stitch placed by hand.", fabric: "Embroidered Nida · Lined sleeves · Dry clean", isNew: true },
